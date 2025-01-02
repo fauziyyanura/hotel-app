@@ -31,7 +31,7 @@ Welcome to the hotel app project! Our hotel app is designed with a user-friendly
 The Hotel App was built with HTML, CSS and JavaScript.Our goal is to provide guests with a seamless, user-friendly experience on their mobile devices. Whether booking a stay, exploring special offers, or managing your reservations, our mobile app is designed to meet your needs efficiently and elegantly.With intuitive navigation and quick access to essential functions, guests can enjoy the full range of our services at their fingertips.
 
 ## Live Demo
-Check out live demo of my project: [Live Demo Link](https://travel-website-page.onrender.com)
+Check out live demo of my project: [Live Demo Link](https://fauziyyanura.io/)
 
 ## Features
 -Responsive Design: The app adjusts to various screen sizes for optimal viewing on any mobile device.
@@ -84,7 +84,7 @@ To use the desktop view,open the site on a desktop browser or larger screen.The 
 This project is licensed under the MIT Licenses - See the [LICENSE](LICENSE) file for more details.
 
 ## Learn more about my travel website
-Watch my loom video: [video](https://www.loom.com/share/1a0a3c4eb8a649fdb9909f531f756bed?sid=a12a5369-a1c2-41ca-80f2-6b3e38b858dd)
+Watch my loom video: [video](https://www.loom.com/share/dc8b56a04a8e46f89b5f4182233f385a?sid=d3f2eb81-1122-4817-9a49-0df3c923534e)
 
 ## Author(s)
 If you have any questions or need further assistance, feel free to reach out:
