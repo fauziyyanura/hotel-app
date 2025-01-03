@@ -83,7 +83,7 @@ To use the desktop view,open the site on a desktop browser or larger screen.The 
 ## Licenses
 This project is licensed under the MIT Licenses - See the [LICENSE](LICENSE) file for more details.
 
-## Learn more about my travel website
+## Learn more about my hotel app
 Watch my loom video: [video](https://www.loom.com/share/dc8b56a04a8e46f89b5f4182233f385a?sid=d3f2eb81-1122-4817-9a49-0df3c923534e)
 
 ## Author(s)
