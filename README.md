@@ -31,7 +31,7 @@ Welcome to the hotel app project! Our hotel app is designed with a user-friendly
 The Hotel App was built with HTML, CSS and JavaScript.Our goal is to provide guests with a seamless, user-friendly experience on their mobile devices. Whether booking a stay, exploring special offers, or managing your reservations, our mobile app is designed to meet your needs efficiently and elegantly.With intuitive navigation and quick access to essential functions, guests can enjoy the full range of our services at their fingertips.
 
 ## Live Demo
-Check out live demo of my project: [Live Demo Link](https://travel-website-page.onrender.com)
+Check out live demo of my project: [Live Demo Link](https://fauziyyanura.io/)
 
 ## Features
 -Responsive Design: The app adjusts to various screen sizes for optimal viewing on any mobile device.
@@ -78,20 +78,19 @@ The mobile view of the travel website is designed with HTML and CSS to provide o
 -Content Layout:Detailed and visually appealing presentation of travel information.
 -Interactive Elements:Enhanced engagement through hover effects and interactive features.
 
-To use the desktop view,open the site on a desktop browser or larger screen.The site is optimized for resolution of 1280x720 pixels or higher.
-
 ## Licenses
 This project is licensed under the MIT Licenses - See the [LICENSE](LICENSE) file for more details.
 
-## Learn more about my travel website
-Watch my loom video: [video](https://www.loom.com/share/1a0a3c4eb8a649fdb9909f531f756bed?sid=a12a5369-a1c2-41ca-80f2-6b3e38b858dd)
+## Learn more about my Hotel APP
+Watch my loom video: [video](https://www.loom.com/share/dc8b56a04a8e46f89b5f4182233f385a?sid=4babc653-7126-437a-9caf-09f866356a4d)
+
 
 ## Author(s)
 If you have any questions or need further assistance, feel free to reach out:
 - **Name:** Fauziyya Nura Ahmed
 - **Email:** fauziyyanuraahmad@gmail.com
 - **GitHub:** https://github.com/fauziyyanura
-- **Website:** https://travel-website-page.onrender.com
+- **Website:** https://hotel-app-hx0s.onrender.com
 
   Thank you for visiting the Hotel App mobile view repository.We hope you find it useful and enjoy contributing to the project!
 
